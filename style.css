@@ -1,0 +1,17 @@
+.bg-info {
+    background-color: #fceae8 !important;
+
+}
+
+.slider {
+    margin-top: 30px !important;
+}
+
+.panda-button {
+    background-color: rgb(241, 47, 47);
+}
+
+.panda-button:hover {
+    color: rgb(185, 173, 173);
+    background-color: rgb(12, 12, 12);
+}
